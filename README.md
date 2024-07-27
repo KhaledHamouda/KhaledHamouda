@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/Khaled7amoda)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Khaled7amoda?ext=KhaledHamouda)
 
 <!--
 **KhaledHamouda/KhaledHamouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
